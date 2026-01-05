@@ -1,5 +1,5 @@
 # Advanced Rich Presence
-![ARP Banner](https://github.com/user-attachments/assets/da2a4e11-8b09-49b1-8321-9f69d0b07190)
+![ARP Banner F](https://github.com/user-attachments/assets/7f7aa98b-e07d-47f6-9c7e-28fdb4f48080)
 
 [![License](https://img.shields.io/badge/license-Ms._Dysphoria-blue.svg)](LICENSE)
 
